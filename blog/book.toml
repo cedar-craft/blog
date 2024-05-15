@@ -1,0 +1,6 @@
+[book]
+authors = ["Zachary Tatlock"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Cedar Craft Blog"
