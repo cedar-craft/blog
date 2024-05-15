@@ -1,3 +1,5 @@
 # Summary
 
-- [Cedar: What, Why, How, When, Who](./cedar-wwhww.md)
+[About](./about.md)
+
+- [Cedar: What, Why, How](./cedar-wwh.md)
